@@ -5,7 +5,7 @@ devBundle = "1.21.4-R0.1-20241208.061653-9" # find latest here: https://repo.pap
 
 [libraries]
 spigotApi = "org.spigotmc:spigot-api:1.12.2-R0.1-SNAPSHOT" # do not update
-packetEvents = "com.github.retrooper:packetevents-spigot:2.6.0"
+packetEvents = "com.github.retrooper:packetevents-spigot:2.7.0"
 buildIndra = { module = "net.kyori:indra-common", version = "3.1.3" }
 buildNmcp = "com.gradleup.nmcp:com.gradleup.nmcp.gradle.plugin:0.0.9"
 
