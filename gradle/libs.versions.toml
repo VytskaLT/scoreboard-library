@@ -1,6 +1,6 @@
 [versions]
 adventure = "4.17.0"
-junitJupiter = "5.11.3"
+junitJupiter = "5.11.4"
 devBundle = "1.21.4-R0.1-20241208.061653-9" # find latest here: https://repo.papermc.io/repository/maven-snapshots/io/papermc/paper/dev-bundle/1.21.4-R0.1-SNAPSHOT/maven-metadata.xml
 
 [libraries]
