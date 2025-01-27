@@ -17,7 +17,7 @@ junitJupiterApi = { module = "org.junit.jupiter:junit-jupiter-api", version.ref 
 junitJupiterEngine = { module = "org.junit.jupiter:junit-jupiter-engine", version.ref = "junitJupiter" }
 
 [plugins]
-kotlin = "org.jetbrains.kotlin.jvm:2.1.0"
+kotlin = "org.jetbrains.kotlin.jvm:2.1.10"
 paperweight = "io.papermc.paperweight.userdev:1.7.7"
 
 [bundles]
